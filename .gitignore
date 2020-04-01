@@ -1,0 +1,9 @@
+notebooks/.hidden
+notebooks/.readonly
+notebooks/.ipynb_checkpoints/
+workspace.tar.gz
+notebooks/week 1/.ipynb_checkpoints/
+notebooks/week 2/.ipynb_checkpoints/
+notebooks/week 3/.ipynb_checkpoints/
+notebooks/week 4/.ipynb_checkpoints/
+.DS_Store
